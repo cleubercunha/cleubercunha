@@ -1,0 +1,36 @@
+{
+  "2024": [
+    {"dia": 1, "mes": 1, "nome": "Confraternização Universal"},
+    {"dia": 13, "mes": 2, "nome": "Carnaval"},
+    {"dia": 14, "mes": 2, "nome": "Quarta-feira de Cinzas (até 14h)"},
+    {"dia": 29, "mes": 3, "nome": "Sexta-Feira Santa"},
+    {"dia": 31, "mes": 3, "nome": "Páscoa"},
+    {"dia": 21, "mes": 4, "nome": "Tiradentes"},
+    {"dia": 1, "mes": 5, "nome": "Dia do Trabalho"},
+    {"dia": 30, "mes": 5, "nome": "Corpus Christi"},
+    {"dia": 7, "mes": 9, "nome": "Independência do Brasil"},
+    {"dia": 12, "mes": 10, "nome": "Nossa Senhora Aparecida"},
+    {"dia": 2, "mes": 11, "nome": "Finados"},
+    {"dia": 15, "mes": 11, "nome": "Proclamação da República"},
+    {"dia": 20, "mes": 11, "nome": "Dia da Consciência Negra"},
+    {"dia": 25, "mes": 12, "nome": "Natal"}
+  ],
+  "2025": [
+    {"dia": 1, "mes": 1, "nome": "Confraternização Universal"},
+    {"dia": 3, "mes": 3, "nome": "Carnaval"},
+    {"dia": 4, "mes": 3, "nome": "Carnaval"},
+     {"dia": 5, "mes": 3, "nome": "Quarta-feira de Cinzas (até 14h)"},
+    {"dia": 18, "mes": 4, "nome": "Sexta-Feira Santa"},
+      {"dia": 20, "mes": 4, "nome": "Páscoa"},
+    {"dia": 21, "mes": 4, "nome": "Tiradentes"},
+    {"dia": 1, "mes": 5, "nome": "Dia do Trabalho"},
+    {"dia": 19, "mes": 6, "nome": "Corpus Christi"},
+    {"dia": 20, "mes": 6, "nome": "Corpus Christi"},
+    {"dia": 7, "mes": 9, "nome": "Independência do Brasil"},
+    {"dia": 12, "mes": 10, "nome": "Nossa Senhora Aparecida"},
+    {"dia": 2, "mes": 11, "nome": "Finados"},
+    {"dia": 15, "mes": 11, "nome": "Proclamação da República"},
+    {"dia": 20, "mes": 11, "nome": "Dia da Consciência Negra"},
+    {"dia": 25, "mes": 12, "nome": "Natal"}
+  ]
+}
